@@ -34,12 +34,7 @@
 - [ ] Exercises done
 - [ ] Notes written below
 
-## My notes
+---
 
-<!-- Lecture: what was actually covered. -->
-
-<!-- Proofs worked out by hand. -->
-
-<!-- Questions to ask the instructor. -->
-
-<!-- Exam-worthy: definitions, theorem statements, proof templates. -->
+Your own notes for this week go in `terms/<your-term>/notes/week-12.md`, not here.
+This file is the shared plan — improve it if the course changes, but keep it general.
