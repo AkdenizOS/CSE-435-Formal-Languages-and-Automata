@@ -48,30 +48,36 @@ notes points at the exact Sipser page.
 ```
 README.md        This page
 course-info.md   Syllabus summary, resource map (Sipser page offsets), glossary
-weeks/NN-*.md    The shared plan, one file per week
+weeks/NN-*.md    One file per week: the shared plan on top, everyone's notes below
 exams/           Past papers 2019-2024, pattern analysis, midterm and final prep
 resources/       Syllabus PDF, books/
-notes/<term>-<name>/week-NN.md   One person's notebook for one term
 ```
 
 ## Taking notes
 
-Make a folder under `notes/` named `<term>-<your-name>` — lowercase, hyphenated:
-`notes/2026-2027-fall-efe-kurucay/`, not `Efe Kuruçay`. Copy
-[`notes/_template.md`](notes/_template.md) into it as `week-01.md` … `week-14.md`,
-matching the files in `weeks/`.
+Open the week, scroll to the bottom, write under your own heading:
+
+```markdown
+## Notes — <Name> (<term>)
+### Lecture
+### Worked out by hand
+### Questions
+### Exam-worthy
+```
+
+Add your heading below the existing ones and never edit someone else's section —
+different sections merge in git without conflicts.
 
 ## Who changes what
 
-| File | Who edits it | When |
+| What | Who edits it | When |
 |------|-------------|------|
-| `weeks/NN-*.md` | **anyone** | Only when the course itself changes — a new topic, a better reading, a correction. Never for personal notes. |
+| Top of `weeks/NN-*.md` (goals, reading, practice) | **anyone** | Only when the course itself changes — a new topic, a better reading, a correction. |
+| `## Notes — <you>` in a week file | **only you** | Every week. |
 | `course-info.md`, `exams/README.md` | **anyone** | When you learn something durable: a new exam pattern, a better source. |
-| `notes/<term>-<you>/` | **only you** | Every week. Your notes, assignments, projects, submissions. |
-| `notes/<term>-unattributed/` | **anyone** | Material from that term whose author is not known. |
+| `assignments/<term>-<you>-*` | **only you** | Your assignments, projects, submissions, if the course has them. |
 | `resources/<term>/` | **anyone in that term** | Slides and handouts the instructor issued that term. |
-| `exams/` | **anyone** | When you get hold of a new paper — blank or answered. Put the writer's surname in the filename (`2025-final-answered-altungoz.pdf`). Exam papers never go under `notes/`. |
-
+| `exams/` | **anyone** | When you get hold of a new paper — blank or answered. Put the writer's surname in the filename (`2025-final-answered-altungoz.pdf`). |
 Two students in different years never touch the same file except to improve the
 shared plan — which is the point.
 
@@ -79,4 +85,4 @@ shared plan — which is the point.
 
 | Term | Instructor | Schedule | Midterm | Final | Notes |
 |------|-----------|----------|---------|-------|-------|
-| Fall 2026-2027 | Dr. Öğr. Üyesi Murat Ak | TBD | TBD | TBD | [efe-kurucay](notes/2026-2027-fall-efe-kurucay/) — every week |
+| Fall 2026-2027 | Dr. Öğr. Üyesi Murat Ak | TBD | TBD | TBD | Efe — in every week file |
