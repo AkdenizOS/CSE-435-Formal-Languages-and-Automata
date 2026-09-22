@@ -1,6 +1,6 @@
-# Week 11 — Undecidability
+# Week 5 — Context-Free Languages and Grammars
 
-Shared plan: [`weeks/11-undecidability.md`](../../../../../weeks/11-undecidability.md)
+Shared plan: [`weeks/05-context-free-grammars.md`](../../weeks/05-context-free-grammars.md)
 
 ## Lecture
 <!-- What was actually covered, and what the lecturer emphasised. -->

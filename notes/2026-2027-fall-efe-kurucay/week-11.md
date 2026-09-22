@@ -1,6 +1,6 @@
-# Week 1 — Course Overview
+# Week 11 — Undecidability
 
-Shared plan: [`weeks/01-course-overview.md`](../../../../../weeks/01-course-overview.md)
+Shared plan: [`weeks/11-undecidability.md`](../../weeks/11-undecidability.md)
 
 ## Lecture
 <!-- What was actually covered, and what the lecturer emphasised. -->

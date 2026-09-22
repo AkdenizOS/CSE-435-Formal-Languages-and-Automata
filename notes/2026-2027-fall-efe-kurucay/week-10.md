@@ -1,6 +1,6 @@
-# Week 2 — Mathematical Preliminaries
+# Week 10 — Decidability
 
-Shared plan: [`weeks/02-mathematical-preliminaries.md`](../../../../../weeks/02-mathematical-preliminaries.md)
+Shared plan: [`weeks/10-decidability.md`](../../weeks/10-decidability.md)
 
 ## Lecture
 <!-- What was actually covered, and what the lecturer emphasised. -->

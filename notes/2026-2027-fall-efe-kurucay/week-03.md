@@ -1,6 +1,6 @@
-# Week 13 — NP and NP-Completeness
+# Week 3 — Regular Languages and Finite Automata
 
-Shared plan: [`weeks/13-np-completeness.md`](../../../../../weeks/13-np-completeness.md)
+Shared plan: [`weeks/03-regular-languages-finite-automata.md`](../../weeks/03-regular-languages-finite-automata.md)
 
 ## Lecture
 <!-- What was actually covered, and what the lecturer emphasised. -->

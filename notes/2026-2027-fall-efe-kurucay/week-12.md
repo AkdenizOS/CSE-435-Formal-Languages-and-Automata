@@ -1,6 +1,6 @@
 # Week 12 — Reducibility
 
-Shared plan: [`weeks/12-reducibility.md`](../../../../../weeks/12-reducibility.md)
+Shared plan: [`weeks/12-reducibility.md`](../../weeks/12-reducibility.md)
 
 ## Lecture
 <!-- What was actually covered, and what the lecturer emphasised. -->

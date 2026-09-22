@@ -38,5 +38,5 @@
 
 ---
 
-Your own notes for this week go in `terms/<your-term>/notes/week-13.md`, not here.
+Your own notes for this week go in `notes/<term>-<your-name>/week-13.md`, not here.
 This file is the shared plan — improve it if the course changes, but keep it general.

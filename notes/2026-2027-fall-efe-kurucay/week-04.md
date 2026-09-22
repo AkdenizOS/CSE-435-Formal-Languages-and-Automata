@@ -1,6 +1,6 @@
-# Week 14 — Advanced Topics in Complexity
+# Week 4 — Pumping Lemma for Regular Languages
 
-Shared plan: [`weeks/14-advanced-complexity.md`](../../../../../weeks/14-advanced-complexity.md)
+Shared plan: [`weeks/04-pumping-lemma-regular.md`](../../weeks/04-pumping-lemma-regular.md)
 
 ## Lecture
 <!-- What was actually covered, and what the lecturer emphasised. -->

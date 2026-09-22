@@ -1,6 +1,6 @@
-# Week 6 — Pushdown Automata
+# Week 7 — Pumping Lemma for Context-Free Languages
 
-Shared plan: [`weeks/06-pushdown-automata.md`](../../../../../weeks/06-pushdown-automata.md)
+Shared plan: [`weeks/07-pumping-lemma-cfl.md`](../../weeks/07-pumping-lemma-cfl.md)
 
 ## Lecture
 <!-- What was actually covered, and what the lecturer emphasised. -->

@@ -15,7 +15,7 @@ Prerequisites: CSE 221, CSE 222
 
 No assignments, no quizzes, no project. The whole grade is two exams, so past
 papers are the most valuable material in this repository — see
-[docs/exam-patterns.md](docs/exam-patterns.md).
+[exams/README.md](exams/README.md).
 
 ## Weekly plan
 
@@ -46,24 +46,37 @@ notes points at the exact Sipser page.
 ## Layout
 
 ```
-docs/            Syllabus summary, exam pattern analysis, glossary
-weeks/NN-*.md    One note per week: goals, concepts, reading, practice, my notes
-exams/past/      Past exam papers, 2019-2024 (the archive)
-exams/midterm/   My midterm preparation
-exams/final/     My final preparation
-resources/       Syllabus PDF, Sipser
+README.md        This page
+course-info.md   Syllabus summary, resource map (Sipser page offsets), glossary
+weeks/NN-*.md    The shared plan, one file per week
+exams/           Past papers 2019-2024, pattern analysis, midterm and final prep
+resources/       Syllabus PDF, books/
+notes/<term>-<name>/week-NN.md   One person's notebook for one term
 ```
+
+## Taking notes
+
+Make a folder under `notes/` named `<term>-<your-name>` — lowercase, hyphenated:
+`notes/2026-2027-fall-efe-kurucay/`, not `Efe Kuruçay`. Copy
+[`notes/_template.md`](notes/_template.md) into it as `week-01.md` … `week-14.md`,
+matching the files in `weeks/`.
 
 ## Who changes what
 
 | File | Who edits it | When |
 |------|-------------|------|
 | `weeks/NN-*.md` | **anyone** | Only when the course itself changes — a new topic, a better reading, a correction. Never for personal notes. |
-| `docs/*.md` | **anyone** | When you learn something durable: a new exam pattern, a better source. |
-| `terms/<your-term>/people/<you>/notes/week-NN.md` | **only you** | Every week. This is your notebook. |
-| `terms/<your-term>/people/<you>/` | **only you** | Your assignments, projects, submissions. |
-| `terms/<your-term>/course/` | **anyone in that term** | Slides, syllabus and lab sheets the instructor issued. |
-| `exams/past/<term>/` | **anyone** | When you get hold of a new paper — blank or answered. Exam papers never go under `terms/`. |
+| `course-info.md`, `exams/README.md` | **anyone** | When you learn something durable: a new exam pattern, a better source. |
+| `notes/<term>-<you>/` | **only you** | Every week. Your notes, assignments, projects, submissions. |
+| `notes/<term>-unattributed/` | **anyone** | Material from that term whose author is not known. |
+| `resources/<term>/` | **anyone in that term** | Slides and handouts the instructor issued that term. |
+| `exams/` | **anyone** | When you get hold of a new paper — blank or answered. Put the writer's surname in the filename (`2025-final-answered-altungoz.pdf`). Exam papers never go under `notes/`. |
 
 Two students in different years never touch the same file except to improve the
 shared plan — which is the point.
+
+## Terms
+
+| Term | Instructor | Schedule | Midterm | Final | Notes |
+|------|-----------|----------|---------|-------|-------|
+| Fall 2026-2027 | Dr. Öğr. Üyesi Murat Ak | TBD | TBD | TBD | [efe-kurucay](notes/2026-2027-fall-efe-kurucay/) — every week |

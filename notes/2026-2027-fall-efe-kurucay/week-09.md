@@ -1,6 +1,6 @@
-# Week 10 — Decidability
+# Week 9 — Variants of Turing Machines
 
-Shared plan: [`weeks/10-decidability.md`](../../../../../weeks/10-decidability.md)
+Shared plan: [`weeks/09-turing-machine-variants.md`](../../weeks/09-turing-machine-variants.md)
 
 ## Lecture
 <!-- What was actually covered, and what the lecturer emphasised. -->

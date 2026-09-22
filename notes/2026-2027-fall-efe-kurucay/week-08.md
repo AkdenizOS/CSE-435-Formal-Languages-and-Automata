@@ -1,6 +1,6 @@
-# Week 9 — Variants of Turing Machines
+# Week 8 — Turing Machines
 
-Shared plan: [`weeks/09-turing-machine-variants.md`](../../../../../weeks/09-turing-machine-variants.md)
+Shared plan: [`weeks/08-turing-machines.md`](../../weeks/08-turing-machines.md)
 
 ## Lecture
 <!-- What was actually covered, and what the lecturer emphasised. -->

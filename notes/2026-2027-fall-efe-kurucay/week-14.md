@@ -1,6 +1,6 @@
-# Week 8 — Turing Machines
+# Week 14 — Advanced Topics in Complexity
 
-Shared plan: [`weeks/08-turing-machines.md`](../../../../../weeks/08-turing-machines.md)
+Shared plan: [`weeks/14-advanced-complexity.md`](../../weeks/14-advanced-complexity.md)
 
 ## Lecture
 <!-- What was actually covered, and what the lecturer emphasised. -->

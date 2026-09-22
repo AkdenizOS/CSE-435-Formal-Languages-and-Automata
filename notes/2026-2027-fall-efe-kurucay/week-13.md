@@ -1,6 +1,6 @@
-# Week 5 — Context-Free Languages and Grammars
+# Week 13 — NP and NP-Completeness
 
-Shared plan: [`weeks/05-context-free-grammars.md`](../../../../../weeks/05-context-free-grammars.md)
+Shared plan: [`weeks/13-np-completeness.md`](../../weeks/13-np-completeness.md)
 
 ## Lecture
 <!-- What was actually covered, and what the lecturer emphasised. -->

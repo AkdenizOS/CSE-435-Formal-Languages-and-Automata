@@ -1,6 +1,6 @@
-# Week 4 — Pumping Lemma for Regular Languages
+# Week 1 — Course Overview
 
-Shared plan: [`weeks/04-pumping-lemma-regular.md`](../../../../../weeks/04-pumping-lemma-regular.md)
+Shared plan: [`weeks/01-course-overview.md`](../../weeks/01-course-overview.md)
 
 ## Lecture
 <!-- What was actually covered, and what the lecturer emphasised. -->

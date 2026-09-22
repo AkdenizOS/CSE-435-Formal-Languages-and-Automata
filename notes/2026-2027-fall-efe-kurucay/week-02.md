@@ -1,6 +1,6 @@
-# Week 3 — Regular Languages and Finite Automata
+# Week 2 — Mathematical Preliminaries
 
-Shared plan: [`weeks/03-regular-languages-finite-automata.md`](../../../../../weeks/03-regular-languages-finite-automata.md)
+Shared plan: [`weeks/02-mathematical-preliminaries.md`](../../weeks/02-mathematical-preliminaries.md)
 
 ## Lecture
 <!-- What was actually covered, and what the lecturer emphasised. -->
